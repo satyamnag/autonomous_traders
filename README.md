@@ -15,10 +15,10 @@
 ## 🤖 Autonomous Traders
 ### The system includes 4 unique stock traders, each following a distinct investment philosophy:
 
-### Warren: Long-term value investing
-### George: Macro & trend-based trading
-### Ray: Risk-parity & diversified allocation
-### Cathie: Innovation & growth-focused investing
+### ◉ Warren: Long-term value investing
+### ◉ George: Macro & trend-based trading
+### ◉ Ray: Risk-parity & diversified allocation
+### ◉ Cathie: Innovation & growth-focused investing
 
 ### Each trader is paired with a dedicated Market Researcher agent that gathers, filters, and contextualizes market data before decisions are made.
 
@@ -49,4 +49,5 @@
 #-------------------------------SCREENSHOT-------------------------------
 
 ![autonomous_traders](https://github.com/satyamnag/autonomous_traders/blob/aa7add791f5269b0be29efb387a4ea3072f18ba8/assets/autonomous%20traders%20screenshot.png)
+
 
