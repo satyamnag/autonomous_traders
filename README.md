@@ -48,4 +48,4 @@
 
 
 #-------------------------------SCREENSHOT-------------------------------
-![autonomous_traders](https://github.com/satyamnag/autonomous_traders/tree/b586ecf8e361a4d44a3d78ad93d24e4a781c70fc/image)
+![autonomous_traders](https://github.com/satyamnag/autonomous_traders/blob/aa7add791f5269b0be29efb387a4ea3072f18ba8/assets/autonomous%20traders%20screenshot.png)
