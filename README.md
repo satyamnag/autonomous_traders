@@ -15,30 +15,29 @@
 ## 🤖 Autonomous Traders
 ### The system includes 4 unique stock traders, each following a distinct investment philosophy:
 
-###        Trader                                  Strategy Style
-###        Warren                                  Long-term value investing
-###        George                                  Macro & trend-based trading
-###        Ray                                     Risk-parity & diversified allocation
-###        Cathie                                  Innovation & growth-focused investing
+### Warren: Long-term value investing
+### George: Macro & trend-based trading
+### Ray: Risk-parity & diversified allocation
+### Cathie: Innovation & growth-focused investing
 
 ### Each trader is paired with a dedicated Market Researcher agent that gathers, filters, and contextualizes market data before decisions are made.
 
-## 🧩 MCP Architecture
+# 🧩 MCP Architecture
 
-### MCP Client (1)
+## MCP Client (1)
 ### ◉ Accounts Client
 
-### MCP Servers (8)
+## MCP Servers (8)
 ### ◉ Market MCP
-### ◉ MAccounts MCP
-### ◉ MPush MCP
-### ◉ MYahoo Finance MCP
-### ◉ MCoinCap MCP
-### ◉ MFetch MCP
-### ◉ MGoogle Search MCP
-### ◉ MLibSQL Memory MCP
+### ◉ Accounts MCP
+### ◉ Push MCP
+### ◉ Yahoo Finance MCP
+### ◉ CoinCap MCP
+### ◉ Fetch MCP
+### ◉ Google Search MCP
+### ◉ LibSQL Memory MCP
 
-### MCP Tools (30+)
+## 30+ MCP Tools
 
 
 ## 📊 Results
@@ -48,4 +47,6 @@
 
 
 #-------------------------------SCREENSHOT-------------------------------
+
 ![autonomous_traders](https://github.com/satyamnag/autonomous_traders/blob/aa7add791f5269b0be29efb387a4ea3072f18ba8/assets/autonomous%20traders%20screenshot.png)
+
