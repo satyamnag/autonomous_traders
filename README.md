@@ -5,9 +5,9 @@
 
 ## 🚀 Project Overview
 ### This project models a realistic, agent-driven trading environment where:
-### . Each trader operates independently
-### . Each trader is supported by a dedicated market researcher
-### . All communication, memory, data access, and execution are handled via MCP Clients, Servers, and Tools
+### ◉ Each trader operates independently
+### ◉ Each trader is supported by a dedicated market researcher
+### ◉ All communication, memory, data access, and execution are handled via MCP Clients, Servers, and Tools
 
 ### The project evolved from an earlier Trading Simulation Account Manager module originally generated and tested using CrewAI roles (Backend Engineer, Lead Engineer, Test Engineer), and was later extended with significant architectural improvements.
 
@@ -26,22 +26,23 @@
 ## 🧩 MCP Architecture
 
 ### MCP Client (1)
-### . Accounts Client
+### ◉ Accounts Client
 
 ### MCP Servers (8)
-### . Market MCP
-### . MAccounts MCP
-### . MPush MCP
-### . MYahoo Finance MCP
-### . MCoinCap MCP
-### . MFetch MCP
-### . MGoogle Search MCP
-### . MLibSQL Memory MCP
+### ◉ Market MCP
+### ◉ MAccounts MCP
+### ◉ MPush MCP
+### ◉ MYahoo Finance MCP
+### ◉ MCoinCap MCP
+### ◉ MFetch MCP
+### ◉ MGoogle Search MCP
+### ◉ MLibSQL Memory MCP
 
 ### MCP Tools (30+)
 
 
 ## 📊 Results
-✔ All four autonomous traders generated profits within one week of simulation
-✔ No manual intervention after initialization
-✔ Fully agent-driven research → decision → execution loop
+### ◉ All four autonomous traders generated profits within one week of simulation
+### ◉ No manual intervention after initialization
+### ◉ Fully agent-driven research → decision → execution loop
+
