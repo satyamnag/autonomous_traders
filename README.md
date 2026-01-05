@@ -46,3 +46,6 @@
 ### ◉ No manual intervention after initialization
 ### ◉ Fully agent-driven research → decision → execution loop
 
+
+#-------------------------------SCREENSHOT-------------------------------
+![autonomous_traders](https://github.com/satyamnag/autonomous_traders/tree/b586ecf8e361a4d44a3d78ad93d24e4a781c70fc/image)
