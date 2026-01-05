@@ -1,0 +1,17 @@
+[project]
+name = "autonomous-traders"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.13.2",
+    "fastmcp>=2.13.2",
+    "gradio",
+    "ipykernel>=7.1.0",
+    "ipython>=9.7.0",
+    "massive>=2.0.2",
+    "openai-agents>=0.6.1",
+    "plotly>=6.5.0",
+    "python-dotenv>=1.2.1",
+]
