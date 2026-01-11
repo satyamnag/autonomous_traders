@@ -46,7 +46,7 @@
 ### ◉ Fully agent-driven research → decision → execution loop
 
 # 🔐 Environment Variables
-### OPENAI_API_KEY=your openai api key
+##### OPENAI_API_KEY=your openai api key
 ### SERPER_API_KEY=your serper api key
 ### MASSIVE_API_KEY=your massive api key
 ### DB_PATH=accounts.db
@@ -64,6 +64,7 @@
 #-------------------------------SCREENSHOT-------------------------------
 
 ![autonomous_traders](https://github.com/satyamnag/autonomous_traders/blob/aa7add791f5269b0be29efb387a4ea3072f18ba8/assets/autonomous%20traders%20screenshot.png)
+
 
 
 
