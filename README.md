@@ -45,9 +45,25 @@
 ### ◉ No manual intervention after initialization
 ### ◉ Fully agent-driven research → decision → execution loop
 
+# 🔐 Environment Variables
+### OPENAI_API_KEY=your openai api key
+### SERPER_API_KEY=your serper api key
+### MASSIVE_API_KEY=your massive api key
+### DB_PATH=accounts.db
+### GOOGLE_API_KEY=your google api key
+### GOOGLE_SEARCH_ENGINE_ID=your google search engine ID
+### PUSHOVER_USER=your pushover user ID
+### PUSHOVER_TOKEN=your pushover token
+### RUN_EVERY_N_MINUTES=60
+### RUN_EVEN_WHEN_MARKET_IS_CLOSED=False
+### TRADER_NAMES=["Warren", "George", "Ray", "Cathie"]
+### INITIAL_DEPOSIT=10000.0
+### PATH_TO_INDEX_DOT_JS=path to index.js inside mcp_google_custom_search_server
+### COINCAP_API_KEY=your coincap api key
 
 #-------------------------------SCREENSHOT-------------------------------
 
 ![autonomous_traders](https://github.com/satyamnag/autonomous_traders/blob/aa7add791f5269b0be29efb387a4ea3072f18ba8/assets/autonomous%20traders%20screenshot.png)
+
 
 
